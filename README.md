@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cutespace welcome to Logspace
 
-- 👀 I’m interested in AI and vehicle projectd
+- 👀 I’m interested in AI and ACS
 - 🌱 I’m currently learning cpp and ros
 - 💞️ I’m looking to collaborate on 
 - 📫 <<欢迎来个老哥空间！>>
