@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cutespace welcome to Logspace
+- 👋 Hi, I’m @cutespace 
 
-- 👀 I’m interested in AI and ACS
+- 👀 Mayjor in AI and ACSE
 - 🌱 I’m currently learning cpp and ros
 - 💞️ I’m looking to collaborate on Code
 - 📫 <<欢迎来个老哥空间！>>
